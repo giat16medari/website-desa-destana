@@ -1,0 +1,62 @@
+Lembar kerja 2. Penyusunan skenario dampak
+
+Jenis ancaman: Cuaca Ekstrim (Angin Kencang)
+Desa/Kelurahan   : Medari
+Kecamatan: Ngadirejo
+Kabupaten/Kota   : Temanggung
+Provinsi: Jawa Tengah
+Aset
+Perkiraan Bentuk Risiko Pada Aset
+
+Bentuk Risiko
+Jumlah
+Manusia
+Cedera akibat tertimpa bangunan
+6
+
+Luka karena pecahan kaca
+4
+
+Cedera akibat tertimpa pohon
+2
+
+Trauma/ketakutan pascabencana
+10
+
+Kematian
+1
+Sosial
+Gangguan koordinasi
+lembaga
+5
+Ekonomi/
+Finansial
+Kehilangan penghasilan harian lahan (Pemilik lahan)
+2
+
+Rusaknya Warung
+3
+
+Aset pertanian rusak
+5
+
+Harta benda pribadi masyarakat hilang/rusak
+10
+Fisik/
+Infrastruktur
+Rumah roboh
+5
+
+Listrik padam
+1 desa
+
+Sekolah rusak
+2
+Alam/
+Lingkungan
+Pohon tumbang
+15
+
+Sampah/polusi
+pascabencana
+7 dusun

@@ -1,0 +1,57 @@
+Lembar Kerja 2. 
+Pemeringkatan Ancaman
+ Desa/Kelurahan: Medari
+Kecamatan         : Ngadirejo
+Kabupaten/Kota: Temanggung
+Provinsi         : Jawa Tengah
+RAGAM  ANCAMAN
+KEMUNGKINAN TERJADI
+PERKIRAAN DAMPAK
+TOTAL
+ Gempa Bumi
+2
+1
+3
+ Longsor
+2
+1
+2
+ Banjir
+3
+1
+4
+ Angin Kencang
+4
+2
+6
+ Hama/Penyakit tanaman
+4
+2
+6
+ Kebakaran
+1
+1
+2
+Konflik Masyarakat
+3
+1
+4
+Kekeringan
+4
+1
+5
+
+
+
+
+KETERANGAN
+Kemungkinan Terjadi
+Nilai 1 = Sangat kecil kemungkinan terjadi
+Nilai 2 = Kemungkinan kecil terjadi
+Nilai 3 = Sangat mungkin terjadi
+Nilai 4 = Pasti terjadi
+Perkiraan Dampak
+Nilai 1 = Tidak parah
+Nilai 2 = Agak parah
+Nilai 3 = Parah
+Nilai 4 = Sangat parah

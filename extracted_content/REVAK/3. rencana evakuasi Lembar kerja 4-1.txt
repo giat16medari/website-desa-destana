@@ -1,0 +1,272 @@
+Lembar kerja 4. Identifikasi kapasitas lokasi pengungsian 
+Jenis ancaman:Cuaca Ekstrem (Angin Kencang)
+Desa/Kelurahan:Medari
+Kecamatan:Ngadirejo
+Kabupaten/Kota:    Temanggung
+Provinsi:Jawa Tengah
+Lokasi Pengungsian
+Asal Pengugsi
+Jarak Dari Daerah Asal
+Daya tampung
+Daya dukung
+
+
+
+
+WC
+Sumur
+Instalasi Kelistrikan
+Instalasi Air
+Genset
+Balai Desa Medari
+Warga Desa Medari
+100 m
+150
+1
+-
+900 va
+PDAM
+-
+MI Muhammadyah Al Falah Medari
+Warga Medari 01/02
+350 meter
+250
+4
+-
+900 va
+PDAM
+-
+MI Muhammadyah Al Falah Medari
+Warga Medari 02/02
+250 meter
+250
+4
+-
+900 va
+PDAM
+-
+MI Muhammadyah Al Falah Medari
+Warga Medari 03/02
+250 meter
+250
+4
+-
+900 va
+PDAM
+-
+Masjid Al-Huda 02/02
+Warga Medari 04/02
+300 meter
+100
+2
+-
+1200 va
+PDAM
+-
+Masjid Al-Huda 02/02
+Warga Medari 05/02
+250 meter
+100
+2
+-
+1200 va
+PDAM
+-
+Masjid Al-Huda 02/02
+Warga Medari 06/02
+200 meter
+100
+2
+-
+1200 va
+PDAM
+-
+Masjid Bringinan 01/01
+Warga Bringinan 01/01
+250 meter
+100
+2
+1
+900 va
+PDAM
+-
+Masjid Bringinan 01/01
+Warga Bringinan 02/01
+250 meter
+100
+2
+1
+900 va
+PDAM
+-
+Masjid Baiturrahim 01/06
+Warga Jiwan/01/06
+100 meter
+100
+2
+-
+450 va
+PDAM
+-
+Masjid Baiturrahim 01/06
+Warga Jiwan/02/06
+200 meter
+100
+2
+-
+450 va
+PDAM
+-
+Masjid Baiturrahim 01/06
+Warga Jiwan/03/06
+200 meter
+100
+2
+-
+450 va
+PDAM
+-
+Masjid Baiturrahim 01/06
+Warga Jiwan/03/06
+200 meter
+100
+2
+-
+450 va
+PDAM
+-
+Masjid Baiturrahim 01/06
+Warga Jiwan/04/06
+200 meter
+100
+2
+-
+450 va
+PDAM
+-
+Masjid Baiturrahim 01/06
+Warga Jiwan/05/06
+200 meter
+100
+2
+-
+450 va
+PDAM
+-
+Masjid Baiturrahman 02/05
+Warga Kopen/01/05
+150 meter
+100
+2
+-
+900 va
+PDAM
+-
+Masjid Baiturrahman 02/05
+Warga Kopen/02/05
+150 meter
+100
+2
+-
+900 va
+PDAM
+-
+Mushola Mandi 02/04
+Warga Mandi/01/04
+250 meter
+50
+2
+-
+900 va
+PDAM
+-
+Mushola Mandi 02/04
+Warga Mandi/02/04
+250 meter
+50
+2
+-
+900 va
+PDAM
+-
+Masjid Al-Kausar 02/03
+Warga Sobahan/01/03
+350 meter
+100
+2
+1
+900 va
+PDAM
+1
+Masjid Al-Kausar 02/03
+Warga Sobahan/02/03
+350 meter
+100
+2
+1
+900 va
+PDAM
+1
+Masjid Al-Kausar 02/03
+Warga Sobahan/03/03
+350 meter
+100
+2
+1
+900 va
+PDAM
+1
+Masjid Al-Ikhlas 04/03
+Warga Sobahan/04/03
+100 meter
+100
+2
+1
+900 va
+PDAM
+-
+Masjid Al-Ikhlas 04/03
+Warga Sobahan/05/03
+100 meter
+100
+2
+1
+900 va
+PDAM
+-
+Masjid Al-Ikhlas 04/03
+Warga Sobahan06/03
+100 meter
+100
+2
+1
+900 va
+PDAM
+-
+Masjid Jami’ Wali Limbung/02/07
+Warga Kauman 01/07
+250 meter
+100
+2
+1
+900 va
+PDAM
+1
+Masjid Jami’ Wali Limbung/02/07
+Warga Kauman 02/07
+100 meter
+100
+2
+1
+900 va
+PDAM
+1
+Masjid Jami’ Wali Limbung/02/07
+Warga Kauman 05/07
+250 meter
+100
+2
+1
+900 va
+PDAM
+1

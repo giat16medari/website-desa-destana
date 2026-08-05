@@ -1,0 +1,144 @@
+Lembar kerja 4. Penilaian Risiko Bencana
+Jenis Ancaman: Angin Kencang
+Desa/Kelurahan: Medari
+Kecamatan: Ngadirejo Kabupaten/Kota: Temanggung
+Provinsi: Jawa Tengah
+ASET BERISIKO
+PERKIRAAN BENTUK RISIKO PADA ASET
+KERENTANAN PENYEBAB ASET BERISIKO
+KAPASITAS TERSEDIA
+TINGKAT
+RISIKO (T/S/R)
+
+BENTUK RISIKO
+JUMLAH
+NOMINAL
+
+
+
+
+
+
+
+
+
+
+MANUSIA
+Cedera akibat
+tertimpa bangunan
+-
+-
+-
+-
+-
+
+Luka karena pecahan kaca
+-
+-
+
+
+
+
+Tersengat listrik dari k
+-
+-
+
+
+
+
+Trauma/ketakutan pascabencana
+-
+-
+
+
+
+
+Kematian
+-
+-
+
+
+
+EKONOMI / FINANSIAL
+Kehilangan
+penghasilan harian lahan (Pemilik lahan)
+-
+-
+-
+-
+-
+
+Rusaknya Warung
+-
+-
+
+
+
+
+
+
+Aset pertanian rusak
+1 desa medari
+-
+-
+-
+-
+
+Harta benda pribadi
+masyarakat hilang/rusak
+-
+-
+
+
+
+FISIK/ INFRASTRUKTUR
+Rumah roboh
+2
+-
+-
+-
+T
+
+Listrik padam
+1 kabupaten ngadirejo
+-
+
+
+
+
+Sekolah rusak
+1
+-
+
+
+
+ALAM/ LINGKUNGAN
+Pohon tumbang
+Semua pohon bambu di desa medari
+-
+-
+-
+-
+
+Sampah/polusi
+pascabencana
+
+-
+
+
+
+SOSIAL / POLITIK
+Gangguan koordinasi
+lembaga
+-
+-
+-
+-
+-
+
+Keterangan:
+MANUSIA: Cedera akibat tertimpa bangunan, Luka karena pecahan kaca, Tersengat listrik dari kabel putus, Trauma/ketakutan pascabencana, Kematian.
+EKONOMI / FINANSIAL: Kehilangan penghasilan harian (pemilik lahan), Rusaknya warung, Kehilangan modal usaha, Aset pertanian rusak, Harta benda pribadi warga hilang/rusak.
+FISIK/ INFRASTRUKTUR: Rumah roboh, Sekolah rusak, Listrik padam.
+ALAM / LINGKUNGAN: Pohon tumbang, Sampah/polusi pascabencana.
+SOSIAL / POLITIK: Gangguan koordinasi lembaga, Isolasi kelompok rentan, Kepanikan social.

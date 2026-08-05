@@ -1,0 +1,419 @@
+Lembar kerja 2. Identifikasi Tempat Evakuasi Sementara dan Tempat Evakuasi Akhir  
+Jenis ancaman:Cuaca Ekstrem (Angin Kencang)
+Desa/Kelurahan:Medari
+Kecamatan:Ngadirejo
+Kabupaten/Kota :    Temanggung
+Provinsi:Jawa Tengah
+Nama
+Usia
+Jenis Kelamin
+Alamat /RT/RW
+Tempat
+
+
+
+
+TES
+TEA
+Nur Shofian
+40
+L
+Medari/01/02
+Balai Desa
+MI Muhammadiyah Al Falah Medari
+Muhammad Faiz
+25
+L
+Medari/01/02
+Balai Desa
+MI Muhammadiyah Al Falah Medari
+Nur Fakozi
+35
+L
+Medari/02/02
+Balai Desa
+MI Muhammadiyah Al Falah Medari
+Nur Faiza
+33
+P
+Medari/02/02
+Balai Desa
+MI Muhammadiyah Al Falah Medari
+Jumari
+50
+L
+Medari/03/02
+Balai Desa
+MI Muhammadiyah Al Falah Medari
+Sugiyarto
+49
+L
+Medari/03/02
+Balai Desa
+MI Muhammadiyah Al Falah Medari
+Aziz Faturrahman
+44
+L
+Medari/04/02
+Balai Desa
+Masjid Al-Huda 02/02
+Muslimah
+49
+P
+Medari/04/02
+Balai Desa
+Masjid Al-Huda 02/02
+Untung Adi Nugraha
+45
+L
+Medari/05/02
+Balai Desa
+Masjid Al-Huda 02/02
+Dartinah
+59
+P
+Medari/05/02
+Balai Desa
+Masjid Al-Huda 02/02
+Eko Cahyono
+30
+L
+Medari/06/02
+Balai Desa
+Masjid Al-Huda 02/02
+Aris Agus Tri R.
+63
+L
+Bringinan/01/01
+Balai Desa
+Masjid Bringinan 01/01
+Agus Susilo
+35
+L
+Bringinan/01/01
+Balai Desa
+Masjid Bringinan 01/01
+Wihartati
+30
+P
+Bringinan/01/01
+Balai Desa
+Masjid Bringinan 01/01
+Sri Pratiwi H.A.
+45
+P
+Bringinan/01/01
+Balai Desa
+Masjid Bringinan 01/01
+Hariyanto
+57
+L
+Bringinan/01/01
+Balai Desa
+Masjid Bringinan 01/01
+Puji Atmin
+55
+L
+Bringinan/02/01
+Balai Desa
+Masjid Bringinan 01/01
+Suprihatin
+35
+P
+Bringinan/02/01
+Balai Desa
+Masjid Bringinan 01/01
+Ariswadi
+35
+L
+Bringinan/02/01
+Balai Desa
+Masjid Bringinan 01/01
+Nasriyah
+34
+P
+Bringinan/02/01
+Balai Desa
+Masjid Bringinan 01/01
+Mardiyanto
+40
+L
+Bringinan/02/01
+Balai Desa
+Masjid Bringinan 01/01
+Suminto
+61
+L
+Jiwan/01/06
+Balai Desa
+Masjid Baiturrahim 01/06
+Sapariyah
+58
+P
+Jiwan/01/06
+Balai Desa
+Masjid Baiturrahim 01/06
+Supianto
+41
+L
+Jiwan/02/06
+Balai Desa
+Masjid Baiturrahim 01/06
+Siti Kurnia Rohman
+33
+P
+Jiwan/02/06
+Balai Desa
+Masjid Baiturrahim 01/06
+Henri Ervanto
+39
+L
+Jiwan/03/06
+Balai Desa
+Masjid Baiturrahim 01/06
+Reni Rahmawati
+31
+P
+Jiwan/03/06
+Balai Desa
+Masjid Baiturrahim 01/06
+Lilahi
+50
+L
+Jiwan/04/06
+Balai Desa
+Masjid Baiturrahim 01/06
+Sri Rahayu
+48
+P
+Jiwan/04/06
+Balai Desa
+Masjid Baiturrahim 01/06
+Muhwan Khairi
+52
+L
+Jiwan/05/06
+Balai Dessa
+Masjid Baiturrahim 01/06
+Ampiah
+50
+P
+Jiwan/05/06
+Balai Desa
+Masjid Baiturrahim 01/06
+Jauhi
+58
+L
+Kopen/01/05
+Balai Desa
+Masjid Baiturrahman 02/05
+Likik
+48
+P
+Kopen/01/05
+Balai Desa
+Masjid Baiturrahman 02/05
+Bintora
+43
+L
+Kopen/01/05
+Balai Desa
+Masjid Baiturrahman 02/05
+Arifah
+40
+P
+Kopen/01/05
+Balai Desa
+Masjid Baiturrahman 02/05
+Kuncung Suwadi
+59
+L
+Kopen/01/05
+Balai Desa
+Masjid Baiturrahman 02/05
+Zamzuri
+52
+L
+Kopen/02/05
+Balai Desa
+Masjid Baiturrahman 02/05
+Mahtoyib
+60
+L
+Kopen/02/05
+Balai Desa
+Masjid Baiturrahman 02/05
+Tri Sumariyanto
+42
+L
+Kopen/02/05
+Balai Desa
+Masjid Baiturrahman 02/05
+Sumiyato
+50
+L
+Kopen/02/05
+Balai Desa
+Masjid Baiturrahman 02/05
+Slamet Rasno
+52
+L
+Kopen/02/05
+Balai Desa
+Masjid Baiturrahman 02/05
+Tori Hariyawan
+42
+L
+Mandi/01/04
+Balai Desa
+Mushola Mandi 02/04
+Iqbal Azin
+19
+L
+Mandi/01/04
+Balai Desa
+Mushola Mandi 02/04
+Kusinah
+58
+P
+Mandi/01/04
+Balai Desa
+Mushola Mandi 02/04
+Sutriah
+48
+P
+Mandi/01/04
+Balai Desa
+Mushola Mandi 02/04
+Arif Rohman
+39
+L
+Mandi/01/04
+Balai Desa
+Mushola Mandi 02/04
+Supriyono
+41
+L
+Mandi/02/04
+Balai Desa
+Mushola Mandi 02/04
+Agus Wiyadi
+44
+L
+Mandi/02/04
+Balai Desa
+Mushola Mandi 02/04
+Siyamah
+48
+P
+Mandi/02/04
+Balai Desa
+Mushola Mandi 02/04
+Yamto
+53
+L
+Mandi/02/04
+Balai Desa
+Mushola Mandi 02/04
+Sarjono
+63
+L
+Mandi/02/04
+Balai Desa
+Mushola Mandi 02/04
+Purnomo
+53
+L
+Sobahan/01/03
+Balai Desa
+Masjid Al-Kausar 02/03
+Ragiono
+45
+L
+Sobahan/02/03
+Balai Desa
+Masjid Al-Kausar 02/03
+Umar
+58
+L
+Sobahan/03/03
+Balai Desa
+Masjid Al-Kausar 02/03
+Maftuhah
+35
+P
+Sobahan/02/03
+Balai Desa
+Masjid Al-Kausar 02/03
+Nur Wahid
+51
+L
+Sobahan/02/03
+Balai Desa
+Masjid Al-Kausar 02/03
+Warsono
+33
+L
+Sobahan/04/03
+Balai Desa
+Masjid Al-Ikhlas 04/03
+Sukardi
+48
+L
+Sobahan/05/03
+Balai Desa
+Masjid Al-Ikhlas 04/03
+Suyamto
+33
+L
+Sobahan/06/03
+Balai Desa
+Masjid Al-Ikhlas 04/03
+Darti
+31
+P
+Sobahan/06/03
+Balai Desa
+Masjid Al-Ikhlas 04/03
+Slamet Juari
+58
+L
+Kauman/05/07
+Balai Desa
+Masjid Jami’ Wali Limbung/02/07
+Haryati
+51
+P
+Kauman/05/07
+Balai Desa
+Masjid Jami’ Wali Limbung/02/07
+Azizah
+22
+P
+Kauman/05/07
+Balai Desa
+Masjid Jami’ Wali Limbung/02/07
+Kholilah
+21
+P
+Kauman/02/07
+Balai Desa
+Masjid Jami’ Wali Limbung/02/07
+Mirna
+28
+P
+Kauman/05/07
+Balai Desa
+Masjid Jami’ Wali Limbung/02/07
+Syafira
+22
+P
+Kauman/02/07
+Balai Desa
+Masjid Jami’ Wali Limbung/02/07
+Hanifa
+25
+P
+Kauman/01/07
+Balai Desa
+Masjid Jami’ Wali Limbung/02/07

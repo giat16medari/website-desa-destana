@@ -1,0 +1,408 @@
+
+=========================================
+FOLDER: .
+=========================================
+
+=========================================
+FOLDER: FPRB
+=========================================
+
+--- File: FPRB Lembar Kerja 1.txt ---
+1: Lembar Kerja 1. Identifikasi Sumberdaya di Desa/Kelurahan
+2: Lembaga
+3: Kapasitas
+4: Kondisi
+5: Pemerintah Desa
+6: Memiliki kewenangan dalam penggunaan anggaran desa
+7: Menyusun kebijakan serta program desa
+8: Membangun koordinasi dan kerjasama dengan pemerintah kecamatan, kabupaten dan instansi terkait
+9: Kepala Dusun
+10: Bertanggung jawab dalam  penyelenggaraan dalam pemerintahan dusun
+
+--- File: FPRB Lembar Kerja 3.txt ---
+1: Lembar Kerja 3 Statuta
+2: 1
+3: Alasan Pembentukan
+4: Desa Medari memiliki ancaman bencana seperti abrasi pada lahan pertanian, angin kencang, gempa bumi, gunung meletus. Oleh karena itu diperlukan forum yang menjadi wadah koordinasi dan pasrtisipasi masyarakat untuk meningkatkan kesiapsiagaan, mengurangi resiko bencana, serta memperkuat ketangguhan desa dalam menghadapi bencana
+5: 2
+6: Nama Forum
+7: MEDANA (Medari Tangguh Bencana)
+8: 3
+9: Semboyan Forum
+10: Siaga bersama, Medari tangguh selamanya
+
+--- File: FPRB Lembar Kerja 4.txt ---
+1: Bidang
+2: Fungsi Bidang
+3: Kegiatan
+4: Tujuan
+5: Sasaran
+6: Waktu
+7: Lokasi
+8: Pendidikan dan Pelatihan
+9: Meningkatkan pengetahuan dan kapasitas mnasyarakat dalam pengurangan risiko bencana
+10: Sosialiasasi kebencanaan, pelatihan pertolongan pertama dan simulasi evakuasi
+
+--- File: FPRB Lembar Kerja 5.txt ---
+1: Lembar Kerja Penguatan Kelembagaan dan Jejaring FPRB Desa/Kelurahan
+2: Kegiatan
+3: (untuk merealisasikan relevansi)
+4: Pihak
+5: (untuk merealisasikan partisipatif)
+6: Output / Hasil
+7: Jejaring Luar Desa/Kelurahan
+8: Penguatan Kelembagaan
+9: Pelatihan sosialisasi dan pelatihan kebencanaan
+10: PKK, Karang Taruna, Linmas, Kelompok Tani, Bumdes, PKD, Babinsa, Perangkat Desa
+
+--- File: Forum Lembar Kerja 2.txt ---
+1: Lembar Kerja Pengusulan Susunan Pengurus FPRB Desa/Kelurahan
+2: Susunan Pengurus FPRB
+3: Pembina
+4: BPBD Kabupaten Temanggung
+5: PUSKESMAS BANJARSARI
+6: Pelindung
+7: Kepala Desa Medari
+8: Ketua BPD Desa Medari
+9: Pendamping
+10: Bhabinkamtibmas Desa Medari
+
+=========================================
+FOLDER: KRB
+=========================================
+
+--- File: 1. Kajian Risiko Lembar Kerja.txt ---
+1: Lembar Kerja 1.
+2: Jenis dan ragam ancaman
+3: Desa/Kelurahan : Medari Kecamatan: Ngadirejo Kabupaten/Kota : Temanggung Provinsi: Jawa Tengah
+4: JENIS ANCAMAN
+5: RAGAM ANCAMAN
+6: Ancaman geologi
+7: Angin kencang
+8: Ancaman Hidrometeorologi
+9: Banjir, Abrasi
+10: Ancaman biologi
+
+--- File: 2. Kajian Risiko Lembar Kerja.txt ---
+1: Lembar Kerja 2.
+2: Pemeringkatan Ancaman
+3: Desa/Kelurahan: Medari
+4: Kecamatan         : Ngadirejo
+5: Kabupaten/Kota: Temanggung
+6: Provinsi         : Jawa Tengah
+7: RAGAM  ANCAMAN
+8: KEMUNGKINAN TERJADI
+9: PERKIRAAN DAMPAK
+10: TOTAL
+
+--- File: 3. Kajian risiko Lembar Kerja.txt ---
+1: Lembar Kerja 3. Diskusi Kelompok
+2: Karakteristik Ancaman
+3: Jenis Ancaman: Angin Kencang
+4: Desa/Kelurahan: Medari
+5: Kecamatan: Ngadirejo
+6: Kabupaten/Kota: Temanggung
+7: Provinsi: Jawa Tengah
+8: KARAKTER
+9: ISIAN
+10: Asal/Penyebab
+
+--- File: 4. Kajian Risiko Lembar Kerja.txt ---
+1: Lembar kerja 4. Penilaian Risiko Bencana
+2: Jenis Ancaman: Angin Kencang
+3: Desa/Kelurahan: Medari
+4: Kecamatan: Ngadirejo Kabupaten/Kota: Temanggung
+5: Provinsi: Jawa Tengah
+6: ASET BERISIKO
+7: PERKIRAAN BENTUK RISIKO PADA ASET
+8: KERENTANAN PENYEBAB ASET BERISIKO
+9: KAPASITAS TERSEDIA
+10: TINGKAT
+
+--- File: 5. Kajian Risiko Lembar Kerja.txt ---
+1: Lembar kerja 5. Kegiatan pengurangan risiko bencana
+2: Jenis Ancaman: Angin Kencang
+3: Desa/Kelurahan: Medari
+4: Kecamatan: Ngadirejo
+5: Kabupaten/Kota: Temanggung
+6: Provinsi: Jawa Tengah
+7: FASE/TAHAP
+8: KEGIATAN
+9: LEMBAGA / ORGANISASI
+10: Desa
+
+=========================================
+FOLDER: PKD
+=========================================
+
+--- File: 1. Form PKD 2021.txt ---
+1: --- xl/worksheets/sheet1.xml ---
+2: PENILAIAN KETANGGUHAN DESA/KELURAHAN
+3: FORM INPUT PENILAIAN
+4: Tanggal	:	46217.0
+5: Nama Desa/Kelurahan	:	Desa Medari
+6: Kecamatan	:	Ngadirejo
+7: Kabupaten/Kota	:	Temanggung
+8: Provinsi	:	Jawa Tengah
+9: JENIS BENCANA	:	Cuaca Ekstrem (Angin Kencang)
+10: KOMPONEN		INDIKATOR		NO PERTANYAAN	RESPON
+
+--- File: Salinan BERITA ACARA.txt ---
+1: BERITA ACARA
+2: NOMOR: 001/GIAT16/VII/2026
+3: Pada hari ini, Senin, tanggal 20, bulan Juli, tahun 2026, bertempat di Balai Desa Medari, Kecamatan Ngadirejo, Kabupaten Temanggung, telah dilaksanakan Focus Group Discussion (FDG) Penilaian Ketangguhan Bencana Desa Medari yang dihadiri oleh Pemerintah Desa Medari, Badan Permusyawaratan Desa (BPD), Forum Pengurangan Risiko Bencana (FPRB), Tim Relawan, PKK, Tokoh Masyarakat, Tokoh Pemuda.
+4: FGD dilaksanakan sebagai bagian dari proses Penilaian Ketangguhan Bencana Desa (PKD). Kegiatan dilakukan melalui diskusi partisipatif dengan mengkaji kondisi nyata desa berdasarkan indikator-indikator penilaian yang meliputi aspek layanan dasar, kebijakan penanggulangan bencana, pencegahan dan mitigasi, kesiapsiagaan darurat, serta kesiapsiagaan pemulihan. Hasil pembahasan menjadi dasar pengisian instrumen penilaian serta penyusunan upaya peningkatan ketangguhan bencana di Desa Medari.
+5: Berdasarkan hasil diskusi dan kesepakatan seluruh peserta, diperoleh beberapa keputusan sebagai berikut:
+6: Seluruh data, informasi, dan bukti pendukung yang disampaikan dalam FGD merupakan hasil telah disepakati bersama sesuai kondisi Desa Medari.
+7: Hasil penilaian menjadi dasar pengisian instrumen PKD serta penyusunan program peningkatan ketangguhan bencana.
+8: Pemerintah Desa Medari bersama Forum Pengurangan Risiko Bencana (FPRB), Tim Relawan Desa, serta seluruh pemangku kepentingan berkomitmen untuk menindaklanjuti rekomendasi hasil penilaian melalui upaya pengurangan risiko bencana.
+9: Berita acara ini menjadi dokumen pendukung dalam proses Penilaian Ketangguhan Bencana Desa Medari Tahun 2026.
+10: Demikian Berita Acara ini dibuat dengan sebenar-benarnya untuk dipergunakan sebagaimana mestinya.
+
+=========================================
+FOLDER: RELAWAN
+=========================================
+
+--- File: pembentukan relawan Lembar Kerja 1.txt ---
+1: Tabel 1 Lembar Kerja Identifikasi Sumberdaya di Desa/Kelurahan
+2: Nama
+3: RT
+4: Tanggal Lahir
+5: Kelompok
+6: Pekerjaan
+7: Kemampuan
+8: Muhamad Nurwakhid
+9: 02
+10: 1 Mei 1987
+
+--- File: pembentukan relawan Lembar Kerja 3.txt ---
+1: Pembagian Tugas Tim Relawan Desa/Kelurahan
+2: BIDANG
+3: TUGAS
+4: KOORDINATOR
+5: ANGGOTA
+6: Bidang Sar
+7: Melakukan pencarian, penyelamatan, dan evakuasi korban bencana
+8: Mengevakuasi kelompok rentan
+9: Membuka akses menuju lokasi terdampak
+10: Koordinasi dengan tim kesehatan dan logistik
+
+--- File: pembentukan relawan Lembar Kerja 4(1).txt ---
+1: Lembar Kerja Penguatan Kelembagaan dan Jejaring Tim Relawan Desa/Kelurahan
+2: Kegiatan
+3: (untuk merealisasikan relevansi)
+4: Pihak
+5: (untuk merealisasikan partisipatif)
+6: Output / Hasil
+7: Jejaring Luar Desa/Kelurahan
+8: Penguatan Kelembagaan
+9: Latihan dasar relawan kebencanaan (evakuasi P3 komunikasi darurat)
+10: Tim relawan desa, LINMAS, Karang Taruna, PKD, BABINSA, PKK
+
+--- File: pembentukan relawan Lembar kerja 4.txt ---
+1: Tabel 2 Lembar Kerja Pengusulan Pengurus Tim Relawan Desa/Kelurahan
+2: Susunan Pengurus Tim Relawan Desa/Kelurahan
+3: Pembina
+4: BPBD Kabupaten Temanggung (chat)
+5: PUSKESMAS BANJARSARI
+6: Pelindung
+7: Kepala Desa Medari
+8: Ketua BPD Desa Medari
+9: Pendamping
+10: Bhabinkamtibmas Desa Medari (desa)
+
+=========================================
+FOLDER: RENKON DESA_
+=========================================
+
+--- File: Penyusunan Rencana Kontingensi Desa Lembar kerja 1.txt ---
+1: Lembar kerja 1. Penyusunan skenario kejadian
+2: Jenis ancaman: Cuaca Ekstrim (Angin Kencang)
+3: Desa/Kelurahan   : Medari
+4: Kecamatan           : Ngadirejo
+5: Kabupaten/Kota   : Temanggung
+6: Provinsi: Jawa Tengah
+7: Karakter
+8: Keterangan
+9: Waktu kejadian
+10: Peringatan Bahaya Diterima Pukul 08.00
+
+--- File: Penyusunan Rencana Kontingensi Desa Lembar kerja 2.txt ---
+1: Lembar kerja 2. Penyusunan skenario dampak
+2: Jenis ancaman: Cuaca Ekstrim (Angin Kencang)
+3: Desa/Kelurahan   : Medari
+4: Kecamatan: Ngadirejo
+5: Kabupaten/Kota   : Temanggung
+6: Provinsi: Jawa Tengah
+7: Aset
+8: Perkiraan Bentuk Risiko Pada Aset
+9: Bentuk Risiko
+10: Jumlah
+
+--- File: Penyusunan Rencana Kontingensi Desa Lembar kerja 3.txt ---
+1: Lembar kerja 3. Penyusunan tujuan dan strategi penanganan darurat bencana
+2: Jenis ancaman: Cuaca Ekstrim (Angin Kencang)
+3: Desa/Kelurahan   : Medari
+4: Kecamatan: Ngadirejo
+5: Kabupaten/Kota   : Temanggung
+6: Provinsi: Jawa Tengah
+7: Tujuan
+8: Strategi
+9: Pengerahan seluruh sumberdaya untuk penanganan tanggap darurat bencana
+10: Menetapkan situasi darurat bencana dengan SK Kepala Desa
+
+--- File: Penyusunan Rencana Kontingensi Desa Lembar kerja 4.txt ---
+1: Lembar kerja 4. Penetapan struktur komando penanganan darurat bencana
+2: Jenis ancaman: Cuaca Ekstrim (Angin Kencang)
+3: Desa/Kelurahan   : Medari
+4: Kecamatan: Ngadirejo
+5: Kabupaten/Kota   : Temanggung
+6: Provinsi: Jawa Tengah
+7: Penanggung Jawab/Komandan: Yosep Restu Adi
+8: Koordinator Umum/Wakil komandan: Muhamad Nurwakhid
+9: Bidang Operasi
+10: Koordinator
+
+--- File: Penyusunan Rencana Kontingensi Desa Lembar kerja 5.txt ---
+1: Lembar kerja 5. Perencanaan bidang operasi
+2: Jenis ancaman : Cuaca Ekstrem (Angin Kencang)
+3: Bidang operasi : Sekretariat
+4: Desa/Kelurahan : Medari
+5: Kecamatan : Ngadirejo
+6: Kabupaten/Kota : Temanggung
+7: Provinsi : Jawa Tengah
+8: Situasi
+9: Dalam kondisi darurat akibat angin kencang di Desa Medari, diperlukan koordinasi lintas sektor yang dilakukan secara cepat, tepat, dan terorganisir. Bidang Sekretariat berperan sebagai pusat pengelolaan administrasi, informasi, dan dokumentasi untuk mendukung kelancaran pelaksanaan operasi tanggap darurat. Selain itu, Bidang Sekretariat bertanggung jawab memastikan proses pelaporan dan komunikasi antar sektor berlangsung secara efektif, terkoordinasi, dan terpadu.
+10: Sasaran
+
+--- File: Penyusunan Rencana Kontingensi Desa Lembar kerja 6.txt ---
+1: Lembar kerja 6. Proyeksi kebutuhan bidang operasi Sekretariat
+2: Jenis ancaman: Cuaca Ekstrim (Angin Kencang)
+3: Bidang operasi: Sekretariat
+4: Desa/Kelurahan   : Medari
+5: Kecamatan: Ngadirejo
+6: Kabupaten/Kota   : Temanggung
+7: Provinsi: Jawa Tengah
+8: No
+9: Jenis Kebutuhan
+10: Vol
+
+=========================================
+FOLDER: REVAK
+=========================================
+
+--- File: 3. rencana evakuasi Lembar kerja 1-1.txt ---
+1: Lembar kerja 1. Identifikasi penduduk kawasan rawan bencana
+2: Jenis ancaman:Cuaca Ekstrem (Angin Kencang)
+3: Desa/Kelurahan:Medari
+4: Kecamatan:Ngadirejo
+5: Kabupaten/Kota:Temanggung
+6: Provinsi:Jawa Tengah
+7: RT/RW/Dusun
+8: Jumlah KK
+9: Jumlah Jiwa
+10: Laki-laki
+
+--- File: 3. rencana evakuasi Lembar kerja 2-1.txt ---
+1: Lembar kerja 2. Identifikasi Tempat Evakuasi Sementara dan Tempat Evakuasi Akhir
+2: Jenis ancaman:Cuaca Ekstrem (Angin Kencang)
+3: Desa/Kelurahan:Medari
+4: Kecamatan:Ngadirejo
+5: Kabupaten/Kota :    Temanggung
+6: Provinsi:Jawa Tengah
+7: Nama
+8: Usia
+9: Jenis Kelamin
+10: Alamat /RT/RW
+
+--- File: 3. rencana evakuasi Lembar kerja 3-1.txt ---
+1: Lembar kerja 3. Identifikasi kapasitas untuk evakuasi
+2: Jenis ancaman:Cuaca Ekstrem (Angin Kencang)
+3: Desa/Kelurahan:Medari
+4: Kecamatan:Ngadirejo
+5: Kabupaten/Kota:    Temanggung
+6: Provinsi:Jawa Tengah
+7: RT/RW/Dusun
+8: Ht
+9: Mega phone
+10: Speaker
+
+--- File: 3. rencana evakuasi Lembar kerja 4-1.txt ---
+1: Lembar kerja 4. Identifikasi kapasitas lokasi pengungsian
+2: Jenis ancaman:Cuaca Ekstrem (Angin Kencang)
+3: Desa/Kelurahan:Medari
+4: Kecamatan:Ngadirejo
+5: Kabupaten/Kota:    Temanggung
+6: Provinsi:Jawa Tengah
+7: Lokasi Pengungsian
+8: Asal Pengugsi
+9: Jarak Dari Daerah Asal
+10: Daya tampung
+
+=========================================
+FOLDER: RPB
+=========================================
+
+--- File: RPB Lembar kerja 1.txt ---
+1: Lembar kerja 1. Rekap kegiatan pra bencana (peningkatan kapasitas)
+2: Jenis ancaman  : Cuaca Ekstrem (Angin Kencang)
+3: Fase : Pra bencana (pencegahan, mitigasi dan peningkatan kapasitas)
+4: Desa/Kec          : Medari/Ngadirejo
+5: Kabupaten: Temanggung
+6: Provinsi: Jawa Tengah
+7: No
+8: Kegiatan
+9: Tujuan
+10: Indikator
+
+--- File: RPB Lembar kerja 2.txt ---
+1: Lembar kerja 2. Rekap kegiatan pra bencana (kesiapsiagaan)
+2: Jenis ancaman : Cuaca Ekstrem (Angin Kencang)
+3: Fase: Pra bencana (Kesiapsiagaan)
+4: Desa/Kec          : Medari/Ngadirejo
+5: Kabupaten: Temanggung
+6: Provinsi: Jawa Tengah
+7: No
+8: Kegiatan
+9: Tujuan
+10: Indikator
+
+--- File: RPB Lembar kerja 3.txt ---
+1: Lembar kerja 3. Rekap kegiatan tanggap darurat
+2: Jenis ancaman : Cuaca Ekstrem (Angin Kencang)
+3: Fase: Tanggap Darurat
+4: Desa/Kec          : Medari/Ngadirejo
+5: Kabupaten: Temanggung
+6: Provinsi: Jawa Tengah
+7: No
+8: Kegiatan
+9: Tujuan
+10: Indikator
+
+--- File: RPB Lembar kerja 4.txt ---
+1: Lembar kerja 4. Rekap kegiatan paska bencana
+2: Jenis ancaman : Cuaca Ekstrem (Angin Kencang)
+3: Fase: Pasca Bencana
+4: Desa/Kec          : Medari/Ngadirejo
+5: Kabupaten: Temanggung
+6: Provinsi: Jawa Tengah
+7: No
+8: Kegiatan
+9: Tujuan
+10: Indikator
+
+=========================================
+FOLDER: SPD
+=========================================
+
+--- File: SPD Desa Medari.txt ---
+1: Lembar kerja Penyusunan sistem peringatan dini
+2: Jenis ancaman: Cuaca Ekstrem (Angin Kencang)
+3: Desa/Kel      : Desa Medari
+4: Kecamatan      : Kecamatan Ngadirejo
+5: Kabupaten/Kota: Kabupaten Temanggung
+6: Provinsi      : Jawa Tengah
+7: Pemantauan dan Peringatan Bahaya
+8: Sumber peringatan bahaya
+9: Informasi resmi dari BMKG dan BPBD Kabupaten Temanggung, serta hasil pemantauan pemerintah desa, perangkat desa, RT/RW, relawan dan masyarakat di wilayah Desa Medari.
+10: Bentuk peringatan bahaya
